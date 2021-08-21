@@ -7,6 +7,7 @@ assignees: ''
 ---
 
 <!--
+
   Temos PAVADINIME apibūdinkite netikslumo esmę, kuri padėtų KITIEMS 
   SKAITYTOJAMS GREITAI SUSIORIENTUOTI, kad apie šį netikslumą jau pranešta.
   1. Prašykite skaidrių bloko kodą (pvz., P01-4)
@@ -40,7 +41,7 @@ Pildyti nereikia, jei:
     + netikslumo vietą identifikuojanti informacija matosi temos pavadinime, ir
     + pridėta ekrano nuotrauka (print-screen)
     
- -->
+-->
  
 1. **Dalykas:** ... <!-- Įrašyti vieną: BS-2021 arba R-2021 -->
 2. **Netikslumo vieta:** skaidrės
