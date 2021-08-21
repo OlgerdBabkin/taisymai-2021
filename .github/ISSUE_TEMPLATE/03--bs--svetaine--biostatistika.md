@@ -1,6 +1,6 @@
 ---
-name: Netikslumas biostatistikos svetainėje `biostatistika.github.io`
-about: Netikslumai mokomojoje medžiagoje ir siūlomi taisymai
+name: Netikslumas biostatistikos teorijos svetainėje (BS-2021)
+about: Pranešimas apie netikslumą svetainėje `mokymai.github.io/biostatistika`
 title: '[Biostatistika]: netikslumas → taisymas (netikslumo esmė)'
 labels: ['BS-2021', 'Website :earth_americas:']
 assignees: ''
@@ -37,8 +37,8 @@ Toliau užpildykite vietas, pažymėtas daugtaškiu.
 
 -->
 
-1. **Dalykas:** ... <!-- Įrašyti vieną: BS-2021 arba R-2021 -->
-2. **Netikslumo vieta:** svetainė `biostatistika.github.io`
+1. **Dalykas:** BS-2021 
+2. **Netikslumo vieta:** Biostatistikos teorijos svetainė (`mokymai.github.io/biostatistika`)
 3. **Nuoroda (URL):** ...
 4. **Glaustai aprašykite netikslumą:**  
 <!-- 4: Loginė klaida, fakto klaida, skaičiavimo klaida, rašybos klaida, skyrybos klaida, nesuderinti linksniai ar pan.-->
