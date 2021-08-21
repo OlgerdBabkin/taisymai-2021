@@ -1,5 +1,5 @@
 ---
-name: Netikslumas kitoje vietoje
+name: Netikslumas kitoje vietoje (BS-2021 | R-2021)
 about: Netikslumai mokomojoje medžiagoje ir siūlomi taisymai
 title: '[vieta]: netikslumas → taisymas (netikslumo esmė)'
 labels: ''
@@ -33,7 +33,7 @@ assignees: ''
  
  
  „GitHub“ svetainėje atsakymus rašykite „Write“, 
- o rezultatą (prieš siųsdami) peržiūrėkite „Preview“ kortelėje.
+ o rezultatą (prieš siųsdami) peržiūrėkite „View“ kortelėje.
  
 
   Laukelyje „Dalykas“ įrašyti trumpąjį dalyko pavadinimą:
