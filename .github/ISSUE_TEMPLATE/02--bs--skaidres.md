@@ -1,6 +1,6 @@
 ---
 name: Netikslumas skaidrėse (BS-2021)
-about: Netikslumai mokomojoje medžiagoje ir siūlomi taisymai
+about: Pranešimas apie netikslumą biostatistikos skaidrėse
 title: 'P__-_ (v1.0) sk._: netikslumas → taisymas (skaidrės)'
 labels: ['BS-2021', 'Slides :orange_book:']
 assignees: ''
