@@ -1,6 +1,6 @@
 ---
 name: Papildomi balai už pirmą pranešimą (BS-2021 | R-2021)
-about: Papildomi balai ir „Markdown“ pradžiamokslis
+about: Biochemikams ir R-2021 studentams: papildomi balai ir „Markdown“ pradžiamokslis
 title: '[*]: Papildomi balai už pirmą pranešimą'
 labels: ['BS-2021', 'R-2021', 'extra points :star:']
 assignees: ''
@@ -9,25 +9,77 @@ assignees: ''
 <!-- Pranešimo temos NEKEISKITE! Bet perskaitykite iki galo ir atlikite užduotis. -->
 
 <!--
-  „GitHub“ svetainėje atsakymus rašykite „Write“, 
-  o rezultatą (prieš siųsdami) peržiūrėkite „Preview“ kortelėje.
-  
-  
-  Prieš tęsdami, pirmiausia pažiūrėkite, kaip atsakymas (kiekviena eilutė) atrodo 
-  „Preview“ kortelėje, ir kurios eilutės yra komentarai.
-  Po to grįžkite į „Write“ ir tinkamai užpildykite šią formą.
+  1 UŽDUOTIS: 
+      << Raskite GitHub korteles ir mygtukus >>
+ 
+  (Užduoties esmė: rasti mygtukus/korteles, bet jų nespausti)
+ 
+ 
+  Virš šio teksto raskite (bet nespauskite) korteles „Write“ ir „Preview“.
+  O žemiau – (bet nespauskite) mygtuką „Submit new issue“
 
-  Prieš pateikdami atsakymą, REIKIAMAS EILUTES I^TRINKITE ir vėl patikrinkite, 
-  kaip atsakymas atrodo „Preview“ kortelėje.
+  „GitHub“ svetainėje atsakymai rašomi į „Write“, 
+  o rezultatą (prieš siųsdami) peržiūrime „Preview“ kortelėje.
+
+  Atsakymas pateikiamas paspaudus žalią mygtuką „Submit new issue“.
 -->
 
 
 <!--
-  Laukelyje „Dalykas“ įrašykite trumpąjį dalyko pavadinimą:
+  2 UŽDUOTIS:
+      << Paanalizuokite „Write“ ir „Preview“ languose esantį turinį >>
+
+  (Užduoties esmė: paspausti „Write“, po to „Preview“, po to „Write“)
+  
+
+  Prieš tęsdami, pirmiausia pažiūrėkite, kaip atsakymas (kiekviena eilutė)  
+  atrodo „Preview“ kortelėje, ir kurios „Write“ lange esančios teksto eilutės  
+  yra u-komentuotos (jų „Preview“ lange nesimato).
+
+  Kiekvieną kartą prieš pateikdami atsakymą, REIKIAMAS EILUTES IŠTRINKITE ir 
+  vėl patikrinkite, kaip atsakymas atrodo „Preview“ kortelėje.
+  
+  Prieš pereidami prie kitos užduoties grįžkite į „Write“ kortelę.
+-->
+
+
+<!--
+  3 UŽDUOTIS:
+      << Pataisykite atsakymą >>
+      
+  (Užduoties esmė: pateikti atsakymą ir grįžti atgal į redagavimo režimą)
+  
+  Prieš darydami šią užduotį, ją perskaitykite iki galo.
+  
+  
+  Jei atsakymą išsiuntėme per anksti, galima paspausti šalia šypsenėlės (dabar
+  nesimato) ☺ esantį „...“ mygtuką, tada „Edit“ ir toliau taisyti tekstą.
+
+
+-->
+
+<!-- Trinti nuo čia -->
+1. Paspauskite „Submit new issue“
+2. Tada susiraskite „...“ ir „Edit“ (šis tekstas virs paveikslėliu, tad bus lengviau):
+![image](https://user-images.githubusercontent.com/12725868/130324986-7a0b2849-3580-4e15-9d8c-c42a7cdfbd3f.png)
+3. Ištrinkite eilutes nuo žymos `<!-- Trinti nuo čia -->` iki `Trinti iki čia`.
+4. Pereikite prie kitos užduoties.
+<!-- Trinti iki čia -->
+
+
+
+
+
+<!--
+  4 UŽDUOTIS
+      << Tinkamai užpildykite pateiktą formą >>
+
+  4-1. Laukelyje „Dalykas“ įrašykite trumpąjį dalyko pavadinimą:
      - BS-2021, jei jūsų klausomas kursas yra „Biostatistika“;
      - R-2021,  jei jūsų klausomas kursas yra „Įvadas į duomenų analizę programa R (R-2021)“;
-     
      - Jei klausote abu dalykus, šioje formoje rašykite BS-2021 | R-2021
+     
+  4-2. Reikiamoje vietoje įrašykite šios dienos datą.
 -->
 
 
@@ -37,7 +89,15 @@ assignees: ''
 3. **Tema:** Papildomi balai už pirmą pranešimą      <!-- !!! Šios eilutės nekeisti -->
 
 
-<!-- Žemiau esančias eilutes IŠTRINKITE, kai jas peržiūrėsite!!! -->
+<!--
+  5 UŽDUOTIS 
+      << Susipažinkite su „Markdown“ sintakse, po to paaiškinimus ištrinkite >>
+      
+    Paanalizuokite kaip žemiau pateiktas tekstas atrodo „Write“ ir „Preview“
+    languose.
+-->
+
+<!-- Žemiau esančias eilutes IŠTRINKITE po to, kai jas peržiūrėsite!!! -->
 
 Šią ir žemiau esančias eilutes **IŠTRINKITE** , kai jas peržiūrėsite!!!
 
