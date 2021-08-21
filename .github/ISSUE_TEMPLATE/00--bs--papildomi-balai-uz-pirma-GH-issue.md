@@ -1,6 +1,6 @@
 ---
 name: Papildomi balai už pirmą pranešimą (BS-2021 | R-2021)
-about: Papildomi balai
+about: Papildomi balai ir „GitHub“ „Markdown“ pradžiamokslis
 title: '[*]: Papildomi balai už pirmą pranešimą'
 labels: ['BS-2021', 'R-2021', 'extra points :star:']
 assignees: ''
@@ -32,10 +32,9 @@ assignees: ''
 
 
 
-1. **Dalykas:** BS-2021                          <!-- Įrašyti: BS-2021, R-2021, arba BS-2021 | R-2021 -->
-2. **Data:** 2021-...-...                        <!-- Įrašyti datą                                    -->
-3. **Tema:** Papildomi balai už pirmą pranešimą  <!-- !!! Šios eilutės nekeisti                       -->
-
+1. **Dalykas:** BS-2021      <!-- Įrašyti: BS-2021, R-2021, arba BS-2021 | R-2021 -->
+2. **Data:** 2021-...-...      <!-- Įrašyti datą -->
+3. **Tema:** Papildomi balai už pirmą pranešimą      <!-- !!! Šios eilutės nekeisti -->
 
 
 <!-- Žemiau esančias eilutes IŠTRINKITE, kai jas peržiūrėsite!!! -->
@@ -61,6 +60,7 @@ Tekstas rašomas tarp `*` ir `*` tampa pasvirasis (*pasvirasis*).
 - nes virš jų tuščia eilutė, 
 - o eilutės su tekstu pradžioje yra minusas ir tarpelis. 
 
+***
 
 <!--
  Kai prašo reikiamose vietose pažymėti [x], žinokite, kad tarp
