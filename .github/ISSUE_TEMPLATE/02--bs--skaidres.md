@@ -7,7 +7,6 @@ assignees: ''
 ---
 
 <!--
-
   Temos PAVADINIME apibūdinkite netikslumo esmę, kuri padėtų KITIEMS 
   SKAITYTOJAMS GREITAI SUSIORIENTUOTI, kad apie šį netikslumą jau pranešta.
   1. Prašykite skaidrių bloko kodą (pvz., P01-4)
