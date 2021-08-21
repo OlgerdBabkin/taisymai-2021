@@ -10,15 +10,15 @@ assignees: ''
 
 <!--
   „GitHub“ svetainėje atsakymus rašykite „Write“, 
-  o rezultatą (prieš siųsdami) peržiūrėkite „View“ kortelėje.
+  o rezultatą (prieš siųsdami) peržiūrėkite „Preview“ kortelėje.
   
   
   Prieš tęsdami, pirmiausia pažiūrėkite, kaip atsakymas (kiekviena eilutė) atrodo 
-  „View“ kortelėje, ir kurios eilutės yra komentarai.
+  „Preview“ kortelėje, ir kurios eilutės yra komentarai.
   Po to grįžkite į „Write“ ir tinkamai užpildykite šią formą.
 
   Prieš pateikdami atsakymą, REIKIAMAS EILUTES I^TRINKITE ir vėl patikrinkite, 
-  kaip atsakymas atrodo „View“ kortelėje.
+  kaip atsakymas atrodo „Preview“ kortelėje.
 -->
 
 

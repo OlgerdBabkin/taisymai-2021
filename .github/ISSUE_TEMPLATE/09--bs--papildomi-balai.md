@@ -9,7 +9,7 @@ labels: ['Extra points :star:']
 
 <!-- 
       „GitHub“ svetainėje atsakymus rašykite „Write“, 
-      o rezultatą (prieš siųsdami) peržiūrėkite „View“ kortelėje. 
+      o rezultatą (prieš siųsdami) peržiūrėkite „Preview“ kortelėje. 
 -->
 
 

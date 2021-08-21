@@ -33,7 +33,7 @@ assignees: ''
  
  
  „GitHub“ svetainėje atsakymus rašykite „Write“, 
- o rezultatą (prieš siųsdami) peržiūrėkite „View“ kortelėje.
+ o rezultatą (prieš siųsdami) peržiūrėkite „Preview“ kortelėje.
  
 
   Laukelyje „Dalykas“ įrašyti trumpąjį dalyko pavadinimą:
