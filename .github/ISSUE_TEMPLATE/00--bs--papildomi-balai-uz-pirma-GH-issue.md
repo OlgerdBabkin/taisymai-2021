@@ -8,28 +8,38 @@ assignees: ''
 
 <!-- Pranešimo temos NEKEISKITE! Bet perskaitykite iki galo ir atlikite užduotis. -->
 
+<!-- Tai, kaip pildyti šabloną, bus paaiškinta vienoje iš užduočių. Dabar eikite prie pirmosios. -->
 
-# 1 UŽDUOTIS *(atlikę užduotį, šią eilutę ištrinkite)*
 
+1. **Dalykas:** BS-2021      <!-- Įrašyti: BS-2021, R-2021, arba BS-2021 | R-2021 -->
+2. **Data:** 2021-...-...      <!-- Įrašyti datą -->
+3. **Tema:** Papildomi balai už pirmą pranešimą      <!-- !!! Šios eilutės nekeisti -->
+
+
+
+*Šią ir žemiau esančias eilutes **IŠTRINKITE**, po to, kai atliksite visas žemiau pateiktas užduotis*
+
+
+# 1 UŽDUOTIS
 <!--
   1 UŽDUOTIS: 
       << Raskite GitHub korteles ir mygtukus >>
  
-  (Užduoties esmė: rasti mygtukus/korteles, bet jų nespausti)
+  (Užduoties esmė: rasti reikiamus mygtukus/korteles, bet jų nespausti)
  
  
   Virš šio teksto raskite (bet nespauskite) korteles „Write“ ir „Preview“.
-  O žemiau – (bet nespauskite) mygtuką „Submit new issue“
+  O žemiau – (bet nespauskite) mygtuką „Submit new issue“.
 
-  „GitHub“ svetainėje atsakymai rašomi į „Write“, 
+  „GitHub“ svetainėje atsakymus rašome į „Write“, 
   o rezultatą (prieš siųsdami) peržiūrime „Preview“ kortelėje.
 
   Atsakymas pateikiamas paspaudus žalią mygtuką „Submit new issue“.
+  
 -->
 
 
-# 2 UŽDUOTIS *(atlikę užduotį, šią eilutę ištrinkite)*
-
+# 2 UŽDUOTIS
 <!--
   2 UŽDUOTIS:
       << Paanalizuokite „Write“ ir „Preview“ languose esantį turinį >>
@@ -39,18 +49,20 @@ assignees: ''
 
   Prieš tęsdami, pirmiausia pažiūrėkite, kaip atsakymas (kiekviena eilutė)  
   atrodo „Preview“ kortelėje, ir kurios „Write“ lange esančios teksto eilutės  
-  yra u-komentuotos (jų „Preview“ lange nesimato).
+  yra užkomentuotos (jų „Preview“ lange nesimato). Labai detaliai neanalizuokite,
+  tiesiog „pa'scroll'inkite“ pirmyn-atgal vienojo, po to kitoje kortelėje ir
+  keliaukite prie kitos užduoties. Prieš pereidami prie kitos užduoties 
+  grįžkite į „Write“ kortelę.
 
-  Kiekvieną kartą prieš pateikdami atsakymą, REIKIAMAS EILUTES IŠTRINKITE ir 
-  vėl patikrinkite, kaip atsakymas atrodo „Preview“ kortelėje.
+
+  Kiekvieną kartą prieš pateikdami atsakymą peržiūrėkite, kaip jis atrodo
+  „Preview“ kortelėje.
   
-  Prieš pereidami prie kitos užduoties grįžkite į „Write“ kortelę.
 -->
 
 
 
-# 3 UŽDUOTIS *(atlikę užduotį, šią eilutę ištrinkite)*
-
+# 3 UŽDUOTIS 
 <!--
   3 UŽDUOTIS:
       << Pažiūrėkite, kaip turi atrodyti galutinis atsakymas >>
@@ -59,27 +71,20 @@ assignees: ''
 
 -->
 
-<!-- Trinti nuo čia -->
-
-1. Peržiūrėkite pavyzdį #1, kad suprastumėte, kaip daugmaž turi atrodyti jūsų atsakymas, kai baigsite visas užduotis (t.y., kaf atsakymo lange turi matytis tik 3 eilutės).
+1. Peržiūrėkite pavyzdį #1, kad suprastumėte, kaip daugmaž turi atrodyti jūsų atsakymas, kai baigsite visas užduotis (t.y., kad atsakymo lange turi matytis tik 3 eilutės).
 Pavyzdžio numeris „Preview“ lange pavirs į nuorodą, kurią reikės paspausti:
     - #1
 2. Peržiūrėkite pavyzdį.
 3. Naudodami naršyklės navigacijos mygtukus grįžkite atgal į šį langą (arba šį šabloną per „Issues“ atsidarykite iš naujo).
-4. Ištrinkite šios užduoties eilutes nuo žymos `<!-- Trinti nuo čia -->` iki `Trinti iki čia`.
-5. Pereikite prie 4 užduoties.
-
-<!-- Trinti iki čia -->
+4. Pereikite prie 4 užduoties.
 
 
-
-# 4 UŽDUOTIS *(atlikę užduotį, šią eilutę ištrinkite)*
-
+# 4 UŽDUOTIS
 <!--
   4 UŽDUOTIS:
       << Pataisykite atsakymą >>
       
-  (Užduoties esmė: pateikti atsakymą ir grįžti atgal į redagavimo režimą)
+  (Užduoties esmė: pateikti atsakymą ir vėl grįžti atgal į redagavimo režimą)
   
   Prieš darydami šią užduotį, ją perskaitykite iki galo.
   
@@ -90,41 +95,38 @@ Pavyzdžio numeris „Preview“ lange pavirs į nuorodą, kurią reikės paspau
 
 -->
 
-<!-- Trinti nuo čia -->
-
 1. Paspauskite „Submit new issue“
 2. Tada susiraskite „...“ ir „Edit“ (šis tekstas virs paveikslėliu, tad bus lengviau):  
 ![image](https://user-images.githubusercontent.com/12725868/130324986-7a0b2849-3580-4e15-9d8c-c42a7cdfbd3f.png)
-3. Ištrinkite šios užduoties eilutes nuo žymos `<!-- Trinti nuo čia -->` iki `Trinti iki čia`.
-4. Pereikite prie kitos užduoties.
-
-<!-- Trinti iki čia -->
+3. Pereikite prie 5 užduoties.
 
 
-# 5 UŽDUOTIS *(atlikę užduotį, šią eilutę ištrinkite)*
+# 5 UŽDUOTIS 
 
 <!--
   5 UŽDUOTIS
       << Tinkamai užpildykite pateiktą formą >>
 
+  Pačiame šio dokumento viršuje yra daugmaž toks šablonas:
+  
+  1. **Dalykas:** BS-2021
+  2. **Data:** 2021-...-... 
+  3. **Tema:** Papildomi balai už pirmą pranešimą 
+
+
+ Tame šablone:
+ 
   4-1. Laukelyje „Dalykas“ įrašykite trumpąjį dalyko pavadinimą:
      - BS-2021, jei jūsų klausomas kursas yra „Biostatistika“;
      - R-2021,  jei jūsų klausomas kursas yra „Įvadas į duomenų analizę programa R (R-2021)“;
      - Jei klausote abu dalykus, šioje formoje rašykite BS-2021 | R-2021
      
   4-2. Reikiamoje vietoje įrašykite šios dienos datą.
+  
 -->
 
 
-
-1. **Dalykas:** BS-2021      <!-- Įrašyti: BS-2021, R-2021, arba BS-2021 | R-2021 -->
-2. **Data:** 2021-...-...      <!-- Įrašyti datą -->
-3. **Tema:** Papildomi balai už pirmą pranešimą      <!-- !!! Šios eilutės nekeisti -->
-
-
-
-# 6 UŽDUOTIS *(atlikę užduotį, šią eilutę ištrinkite)*
-
+# 6 UŽDUOTIS 
 <!--
   6 UŽDUOTIS 
       << Susipažinkite su „Markdown“ sintakse, po to paaiškinimus ištrinkite >>
@@ -132,11 +134,6 @@ Pavyzdžio numeris „Preview“ lange pavirs į nuorodą, kurią reikės paspau
     Paanalizuokite kaip žemiau pateiktas tekstas atrodo „Write“ ir „Preview“
     languose.
 -->
-
-
-*Šią ir žemiau esančias eilutes **IŠTRINKITE**, kai jas peržiūrėsite!!!*
-
-
 
 ***
 
@@ -214,4 +211,11 @@ tuščią eilutę.
 - [ x]  PAŽYMĖTA BLOGAI
 
 ***
+
+
+# 7 UŽDUOTIS 
+
+- Nuo nurodytos vietos ištrinkite visas eilutes.
+- Patekite atsakymą.
+
 
