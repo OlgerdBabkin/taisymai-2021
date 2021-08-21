@@ -1,6 +1,6 @@
 ---
 name: Netikslumas biostatistikos teorijos svetainėje (BS-2021)
-about: Pranešimas apie netikslumą svetainėje `mokymai.github.io/biostatistika`
+about: Pranešimas apie netikslumą svetainėje mokymai.github.io/biostatistika
 title: '[Biostatistika]: netikslumas → taisymas (netikslumo esmė)'
 labels: ['BS-2021', 'Website :earth_americas:']
 assignees: ''
