@@ -1,6 +1,6 @@
 ---
-name: Netikslumas „Emokymai“ kurso svetainėje
-about: Netikslumai svetainėje „Emokymai“
+name:  Netikslumas „Emokymai“ kurso svetainėje (BS-2021)
+about: Pranešimas apie netikslumą biostatistikos „Emokymai“ kurse
 title: '[Emokymai]: netikslumas → taisymas (netikslumo esmė)'
 labels: ['Website :earth_americas:']
 assignees: ''
@@ -28,24 +28,18 @@ assignees: ''
  Tarp [, x, ir ] tarpų neturi būti:
      GERAI:  [x]
      BLOGAI: [ x ], [ x], arba [x ]
- 
- 
+
+
  „GitHub“ svetainėje atsakymus rašykite „Write“, 
  o rezultatą (prieš siųsdami) peržiūrėkite „Preview“ kortelėje.
- 
 
-  Laukelyje „Dalykas“ įrašyti trumpąjį dalyko pavadinimą:
-     - BS-2021, jei jūsų klausomas kursas yra „Biostatistika“;
-     - R-2021,  jei jūsų klausomas kursas yra „Įvadas į duomenų analizę programa R (R-2021)“ 
 
- 
 Toliau užpildykite vietas, pažymėtas daugtaškiu.
 -->
 
 
 
-1. **Dalykas:** ... <!-- Įrašyti vieną: BS-2021 arba R-2021 -->
-<!-- 2. **Grupė:**  Biostatistikos | R-2021 ketvirtadienio | R-2021 penktadienio-->           <!-- Pasirinkti vieną --> 
+1. **Dalykas:** BS-2021
 2. **Netikslumo vieta:** „Emokymai“ svetainė
 3. **Nuoroda į resursą (URL):** ...
 4. **Glaustai aprašykite netikslumą:** ... <!-- 4: Loginė klaida, fakto klaida, skaičiavimo klaida, rašybos klaida, skyrybos klaida, nesuderinti linksniai ar pan.-->
