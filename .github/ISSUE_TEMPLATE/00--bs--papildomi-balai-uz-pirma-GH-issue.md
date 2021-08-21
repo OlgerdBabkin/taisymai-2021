@@ -6,7 +6,7 @@ labels: ['BS-2021', 'R-2021', 'extra points :star:']
 assignees: ''
 ---
 
-<!-- Pranešimo temos NEKEISKITE! -->
+<!-- Pranešimo temos NEKEISKITE! Bet perskaitykite iki galo ir atlikite užduotis. -->
 
 <!--
   „GitHub“ svetainėje atsakymus rašykite „Write“, 
