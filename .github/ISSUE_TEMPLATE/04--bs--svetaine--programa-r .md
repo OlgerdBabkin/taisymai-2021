@@ -1,6 +1,6 @@
 ---
-name: Netikslumas pratybų svetainėje
-about: Netikslumas pratybų svetainėje
+name: Netikslumas biostatistikos pratybų svetainėje (BS-2021)
+about: Pranešimas apie netikslumą biostatistikos pratybų svetainėje
 title: '[Pratybų svetainė]: netikslumas → taisymas (netikslumo esmė)'
 labels: ['R-2021', 'Website :earth_americas:']
 assignees: ''
@@ -27,17 +27,13 @@ assignees: ''
  o rezultatą (prieš siųsdami) peržiūrėkite „Preview“ kortelėje.
  
 
-  Laukelyje „Dalykas“ įrašyti trumpąjį dalyko pavadinimą:
-     - BS-2021, jei jūsų klausomas kursas yra „Biostatistika“;
-     - R-2021,  jei jūsų klausomas kursas yra „Įvadas į duomenų analizę programa R (R-2021)“ 
-
  
 Toliau užpildykite vietas, pažymėtas daugtaškiu.
 
 -->
 
-1. **Dalykas:** ... <!-- Įrašyti vieną: BS-2021 arba R-2021 -->
-2. **Netikslumo vieta:** Pratybų svetainė
+1. **Dalykas:** BS-2021
+2. **Netikslumo vieta:** Biostatistikos pratybų svetainė
 3. **Nuoroda (URL):** ...
 4. **Glaustai aprašykite netikslumą:**  
 <!-- 4: Loginė klaida, fakto klaida, skaičiavimo klaida, rašybos klaida, skyrybos klaida, nesuderinti linksniai ar pan.-->
