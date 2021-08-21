@@ -139,7 +139,7 @@ Pavyzdžio numeris „Preview“ lange pavirs į nuorodą, kurią reikės paspau
 
 # *GitHub* stiliaus *Markdown* pagrindai 
 
-Šis skyrius skirtas tam, kad įgautumėte bendrąjį suvokimą, kas yra ir kada naudojama „Markdown“!
+Šis skyrius skirtas tam, kad įgautumėte bendrąjį suvokimą, kas yra „Markdown“!
 
 **„Markdown“** yra nesudėtinga kompiuterinė žymėjimo kalba, skirta kurti formatuotą tekstą (kurį matote „Preview“ kortelėje) naudojant paprastojo teksto (angl. *plain text*) redaktorių (kuris yra „Write“ kortelėje). Paanalizuokite, kaip 6 užduoties tekstas atrodo tiek „Write“, tiek ir „Preview“ languose.
 
