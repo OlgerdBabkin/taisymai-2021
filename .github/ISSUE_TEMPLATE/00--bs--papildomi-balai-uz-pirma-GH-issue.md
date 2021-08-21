@@ -1,6 +1,6 @@
 ---
 name: Papildomi balai už pirmą pranešimą (BS-2021 | R-2021)
-about: Papildomi balai ir „GitHub“ „Markdown“ pradžiamokslis
+about: Papildomi balai ir „Markdown“ pradžiamokslis
 title: '[*]: Papildomi balai už pirmą pranešimą'
 labels: ['BS-2021', 'R-2021', 'extra points :star:']
 assignees: ''
