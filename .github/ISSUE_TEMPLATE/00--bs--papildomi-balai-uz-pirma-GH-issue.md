@@ -1,12 +1,15 @@
 ---
 name: Papildomi balai už pirmą pranešimą (BS-2021 | R-2021)
-about: "Biochemikams ir R-2021 studentams: papildomi balai ir „Markdown“ pradžiamokslis"
+about: "Apmokymas naudoti „GitHub Issues“ su „Markdown“ pradžiamoksliu"
 title: '[*]: Papildomi balai už pirmą pranešimą'
 labels: ['BS-2021', 'R-2021', 'extra points :star:']
 assignees: ''
 ---
 
 <!-- Pranešimo temos NEKEISKITE! Bet perskaitykite iki galo ir atlikite užduotis. -->
+
+
+# 1 UŽDUOTIS *(atlikę užduotį, šią eilutę ištrinkite)*
 
 <!--
   1 UŽDUOTIS: 
@@ -24,6 +27,8 @@ assignees: ''
   Atsakymas pateikiamas paspaudus žalią mygtuką „Submit new issue“.
 -->
 
+
+# 2 UŽDUOTIS *(atlikę užduotį, šią eilutę ištrinkite)*
 
 <!--
   2 UŽDUOTIS:
@@ -43,8 +48,35 @@ assignees: ''
 -->
 
 
+
+# 3 UŽDUOTIS *(atlikę užduotį, šią eilutę ištrinkite)*
+
 <!--
   3 UŽDUOTIS:
+      << Pažiūrėkite, kaip turi atrodyti galutinis atsakymas >>
+      
+  (Užduoties esmė: pamatyti galutinio ats. pavyzdį ir grįžti atgal tęsti šio šablono užduotis)
+
+-->
+
+<!-- Trinti nuo čia -->
+
+1. Peržiūrėkite pavyzdį #1, kad suprastumėte, kaip daugmaž turi atrodyti jūsų atsakymas, kai baigsite visas užduotis (t.y., kaf atsakymo lange turi matytis tik 3 eilutės).
+Pavyzdžio numeris „Preview“ lange pavirs į nuorodą, kurią reikės paspausti:
+    - #1
+2. Peržiūrėkite pavyzdį.
+3. Naudodami naršyklės navigacijos mygtukus grįžkite atgal į šį langą (arba šį šabloną per „Issues“ atsidarykite iš naujo).
+4. Ištrinkite šios užduoties eilutes nuo žymos `<!-- Trinti nuo čia -->` iki `Trinti iki čia`.
+5. Pereikite prie 4 užduoties.
+
+<!-- Trinti iki čia -->
+
+
+
+# 4 UŽDUOTIS *(atlikę užduotį, šią eilutę ištrinkite)*
+
+<!--
+  4 UŽDUOTIS:
       << Pataisykite atsakymą >>
       
   (Užduoties esmė: pateikti atsakymą ir grįžti atgal į redagavimo režimą)
@@ -59,19 +91,20 @@ assignees: ''
 -->
 
 <!-- Trinti nuo čia -->
+
 1. Paspauskite „Submit new issue“
-2. Tada susiraskite „...“ ir „Edit“ (šis tekstas virs paveikslėliu, tad bus lengviau):
+2. Tada susiraskite „...“ ir „Edit“ (šis tekstas virs paveikslėliu, tad bus lengviau):  
 ![image](https://user-images.githubusercontent.com/12725868/130324986-7a0b2849-3580-4e15-9d8c-c42a7cdfbd3f.png)
-3. Ištrinkite eilutes nuo žymos `<!-- Trinti nuo čia -->` iki `Trinti iki čia`.
+3. Ištrinkite šios užduoties eilutes nuo žymos `<!-- Trinti nuo čia -->` iki `Trinti iki čia`.
 4. Pereikite prie kitos užduoties.
+
 <!-- Trinti iki čia -->
 
 
-
-
+# 5 UŽDUOTIS *(atlikę užduotį, šią eilutę ištrinkite)*
 
 <!--
-  4 UŽDUOTIS
+  5 UŽDUOTIS
       << Tinkamai užpildykite pateiktą formą >>
 
   4-1. Laukelyje „Dalykas“ įrašykite trumpąjį dalyko pavadinimą:
@@ -89,24 +122,32 @@ assignees: ''
 3. **Tema:** Papildomi balai už pirmą pranešimą      <!-- !!! Šios eilutės nekeisti -->
 
 
+
+# 6 UŽDUOTIS *(atlikę užduotį, šią eilutę ištrinkite)*
+
 <!--
-  5 UŽDUOTIS 
+  6 UŽDUOTIS 
       << Susipažinkite su „Markdown“ sintakse, po to paaiškinimus ištrinkite >>
       
     Paanalizuokite kaip žemiau pateiktas tekstas atrodo „Write“ ir „Preview“
     languose.
 -->
 
-<!-- Žemiau esančias eilutes IŠTRINKITE po to, kai jas peržiūrėsite!!! -->
 
-Šią ir žemiau esančias eilutes **IŠTRINKITE** , kai jas peržiūrėsite!!!
+*Šią ir žemiau esančias eilutes **IŠTRINKITE**, kai jas peržiūrėsite!!!*
+
+
 
 ***
 
 # *GitHub* stiliaus *Markdown* pagrindai 
 
-Šito kol kas mokėti nereikia, bet svarbu įgauti bendrąjį suvokimą!
-**SVARBU** ten, kur reikia, palikti tarus ir tuščias eilutes!
+Šis skyrius skirtas tam, kad įgautumėte bendrąjį suvokimą, kas yra ir kada naudojama „Markdown“!
+
+**„Markdown“** yra nesudėtinga kompiuterinė žymėjimo kalba, skirta kurti formatuotą tekstą (kurį matote „Preview“ kortelėje) naudojant paprastojo teksto (angl. *plain text*) redaktorių (kuris yra „Write“ kortelėje). Paanalizuokite, kaip 6 užduoties tekstas atrodo tiek „Write“, tiek ir „Preview“ languose.
+
+
+**SVARBU:** atkreipkite dėmesį, kur reikia, palikti tarpus ir tuščias eilutes!
 
 Eilutė, kuri prasideda simboliais „grotelės ir tarpelis“ (`# `) tampa antrašte. 
 Viena eilutė virš antraštės privalo būti tuščia.
@@ -115,19 +156,20 @@ Tekstas rašomas tarp `**` ir `**` tampa pajuodintas (`**pajuodintas**`: **pajuo
 
 Tekstas rašomas tarp `*` ir `*` tampa pasvirasis (`*pasvirasis*`: *pasvirasis*).
 
-Tekstas rašomas tarp `<!--` ir `-->` yra komentaras (atsakyme jo nesimato, `<!-- šio teksto nesimato -->`: <!-- šio teksto nesimato --> .
+Tekstas rašomas tarp `<!--` ir `-->` yra „Markdown“ komentaras (atsakyme jo nesimato, `<!-- šio teksto nesimato -->`: <!-- šio teksto nesimato --> .
 
 - Tai sąrašo elementai, 
 - nes virš jų -- tuščia eilutė, 
 - o eilutės su tekstu pradžioje yra minusas ir tarpelis. 
 
-`--` tampa ilguoju brūkšniu: -- = –
+`--` tampa ilguoju brūkšniu: -- = – (galbūt sunku įžiūrėti, bet - ir – yra du skirtingi simboliai).
 
-Tarp atgal pasvirusių „kabučių“ (angl. *back ticks*) gali būti rašomas kodas (ir panaikinama specialiųjų simbolių ypatingoji reikšmė, todėl. pvz., žvaigždutė rodoma kaip žvaigždutė): `a*b = 2 + 3*c`.  
+Tarp atgal pasvirusių „kabučių“ (angl. *back ticks*) gali būti rašomas programos kodas (ir kartu panaikinama specialiųjų simbolių ypatingoji reikšmė, todėl, pvz., žvaigždutė rodoma kaip žvaigždutė): `a*b = 2 + 3*c`.  
 Pasvirusių „kabučių“ vieta klaviatūroje **įprastai** yra šalia „Escape“ („Esc“) klavišo: ![](https://www.computerhope.com/cdn/keyboard/tilde.jpg)
 
+Specialiąją reikšmę taip pat panaikina atgal pasviręs brūkšnys (`\*be pajuodinimo\*`: \*be pajuodinimo\*)
 
-Vertikalus brūkšnys užrašomas taip (bent 3 žvaigždutės naujoje eilutėje):
+Horizontalus brūkšnys užrašomas šitaip -- bent 3 žvaigždutės `***` naujoje eilutėje, virš kurios tuščia eilutė:
 
 ***
 
@@ -140,15 +182,17 @@ iš naujos eilutės.
 
 Jei
 tarpų nėra
-(ar mažiau nei 2)
+(ar mažiau nei 2),
 atsakymo tekstas parašomas
 vienoje eilutėje.
 
-Tad tarp pastraipų
-palikite tuščią
-eilutę.
+Tad tarp **pastraipų**
+palikite bent vieną
+tuščią eilutę.
 
 ***
+
+Žymimosios dėžutės.
 
 <!--
  Kai prašo reikiamose vietose pažymėti [x], žinokite, kad tarp
@@ -168,3 +212,6 @@ eilutę.
 - [ x ] PAŽYMĖTA BLOGAI
 - [x ]  PAŽYMĖTA BLOGAI
 - [ x]  PAŽYMĖTA BLOGAI
+
+***
+
