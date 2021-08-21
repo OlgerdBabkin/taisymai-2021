@@ -1,6 +1,6 @@
 ---
 name: Netikslumas biostatistikos pratybų svetainėje (BS-2021)
-about: Pranešimas apie netikslumą biostatistikos pratybų svetainėje
+about: Pranešimas apie netikslumą biostatistikos pratybų svetainėje (mokymai.github.io platformoje)
 title: '[Pratybų svetainė]: netikslumas → taisymas (netikslumo esmė)'
 labels: ['R-2021', 'Website :earth_americas:']
 assignees: ''
