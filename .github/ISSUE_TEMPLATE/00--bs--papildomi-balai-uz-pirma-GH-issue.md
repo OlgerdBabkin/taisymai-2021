@@ -50,7 +50,7 @@ assignees: ''
   Prieš tęsdami, pirmiausia pažiūrėkite, kaip atsakymas (kiekviena eilutė)  
   atrodo „Preview“ kortelėje, ir kurios „Write“ lange esančios teksto eilutės  
   yra užkomentuotos (jų „Preview“ lange nesimato). Labai detaliai neanalizuokite,
-  tiesiog „pa'scroll'inkite“ pirmyn-atgal vienojo, po to kitoje kortelėje ir
+  tiesiog „pa'scroll'inkite“ pirmyn-atgal vienoje, po to kitoje kortelėje ir
   keliaukite prie kitos užduoties. Prieš pereidami prie kitos užduoties 
   grįžkite į „Write“ kortelę.
 
