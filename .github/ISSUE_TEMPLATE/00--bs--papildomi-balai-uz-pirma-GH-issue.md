@@ -156,17 +156,16 @@ Tekstas rašomas tarp `*` ir `*` tampa pasvirasis (`*pasvirasis*`: *pasvirasis*)
 Tekstas rašomas tarp `<!--` ir `-->` yra „Markdown“ komentaras (atsakyme jo nesimato, `<!-- šio teksto nesimato -->`: <!-- šio teksto nesimato --> .
 
 - Tai sąrašo elementai, 
-- nes virš jų -- tuščia eilutė, 
+- nes virš jų – tuščia eilutė, 
 - o eilutės su tekstu pradžioje yra minusas ir tarpelis. 
 
-`--` tampa ilguoju brūkšniu: -- = – (galbūt sunku įžiūrėti, bet - ir – yra du skirtingi simboliai).
 
 Tarp atgal pasvirusių „kabučių“ (angl. *back ticks*) gali būti rašomas programos kodas (ir kartu panaikinama specialiųjų simbolių ypatingoji reikšmė, todėl, pvz., žvaigždutė rodoma kaip žvaigždutė): `a*b = 2 + 3*c`.  
 Pasvirusių „kabučių“ vieta klaviatūroje **įprastai** yra šalia „Escape“ („Esc“) klavišo: ![](https://www.computerhope.com/cdn/keyboard/tilde.jpg)
 
 Specialiąją reikšmę taip pat panaikina atgal pasviręs brūkšnys (`\*be pajuodinimo\*`: \*be pajuodinimo\*)
 
-Horizontalus brūkšnys užrašomas šitaip -- bent 3 žvaigždutės `***` naujoje eilutėje, virš kurios tuščia eilutė:
+Horizontalus brūkšnys užrašomas šitaip – bent 3 žvaigždutės `***` naujoje eilutėje, virš kurios tuščia eilutė:
 
 ***
 
